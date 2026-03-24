@@ -1,0 +1,10 @@
+# Authentic Food Recipes - AI Recipe Generator
+> Generate unique, delicious recipes from ingredients you already have!
+
+## Features
+- AI-Powered Recipe Generation
+- Custom Dietary Preferences
+- Step-by-Step Cooking Mode
+- Nutrition Facts
+- Local-First Saved Recipes
+- 100% Free, No Signup Required
